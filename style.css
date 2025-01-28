@@ -7,7 +7,7 @@
 }
 
 body {
-  background-color: #080b0c;
+  background-color: #8a9493;
 }
 
 header {
@@ -36,7 +36,7 @@ header {
 }
 
 .navbar.scrolling-active {
-  background-color: ##FFFFFF;
+  background-color: #080b0c;
   padding: 30px 0 30px 0;
 }
 
@@ -341,7 +341,7 @@ header {
 
 .footer {
   padding: 50px 0 50px 0;
-  background-color: #FFFFFF;
+  background-color: #080b0c;
 }
 
 .footer .box-footer {
