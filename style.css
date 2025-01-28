@@ -7,7 +7,7 @@
 }
 
 body {
-  background-color: #FFFFFF;
+  background-color: #808080;
 }
 
 header {
@@ -36,7 +36,7 @@ header {
 }
 
 .navbar.scrolling-active {
-  background-color: #FFFFFF;
+  background-color: #808080;
   padding: 30px 0 30px 0;
 }
 
